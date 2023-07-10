@@ -7,7 +7,7 @@ module.exports = ({ env }) => ({
           {
             name: 'indigostudiostrapi',
             id: "1122a876-7ad5-4864-a68a-b80bf199dd1c",
-            buildHook: "https://api.netlify.com/build_hooks/<hook_id>",
+            buildHook: "https://api.netlify.com/build_hooks/64abcf02cb99383eebf74724",
             branch: 'master' // optional
           }
         ]
